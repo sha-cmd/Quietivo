@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+statsmodels
+scipy
+sklearn
+seaborn
+jupyter
+scikit-plot
+ipywidgets
+ipykernel
+
